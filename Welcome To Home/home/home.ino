@@ -8,7 +8,7 @@ int gBr = 0;
 int bBr = 0;
 int rBr = 0;
 
-int fadeSpeed = 5;
+int fadeSpeed = 15;
 
 void setup() {
   // put your setup code here, to run once:
