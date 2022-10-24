@@ -11,7 +11,7 @@ int rBr = 0;
 int fadeSpeed = 15;
 
 void setup() {
-  // put your setup code here, to run once:
+  // pin output
   pinMode (GREEN_LED, OUTPUT);
   pinMode (BLUE_LED, OUTPUT);
   pinMode (RED_LED, OUTPUT);
